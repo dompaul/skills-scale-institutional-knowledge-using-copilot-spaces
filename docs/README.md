@@ -6,7 +6,7 @@
 
 OctoAcme follows a customer-first, iterative approach to project delivery. Our project lifecycle consists of five key stages: **Initiation** (validating the business need and aligning stakeholders), **Planning** (breaking work into actionable increments and identifying dependencies), **Execution** (building, testing, and iterating on features), **Release** (deploying to production with confidence), and **Close & Retrospective** (capturing learnings and identifying improvements). Each stage is supported by clear processes, templates, and communication protocols to ensure transparency and alignment across the organization.
 
-Our core team includes **Project Managers** who coordinate delivery and manage risks, **Product Managers** who define outcomes and prioritize the backlog, **Developers** who implement features with quality and testability in mind, and **QA/Testing** specialists who validate acceptance criteria. Stakeholders provide strategic input and approvals throughout the lifecycle. This collaborative model ensures clear ownership and accountability at every step.
+Our core team includes **Project Managers** who coordinate delivery and manage risks, **Product Managers** who define outcomes and prioritize the backlog, **Developers** who implement features with quality and testability in mind, **QA Engineers** who validate acceptance criteria and ensure quality standards, **UX/UI Designers** who create user-centered interfaces and conduct usability testing, **DevOps/System Administrators** who manage infrastructure and CI/CD pipelines, **Subject Matter Experts** who provide domain knowledge and validate requirements, and **Customer Support/Success** teams who represent end-user feedback and coordinate on incidents. Stakeholders provide strategic input and approvals throughout the lifecycle. This collaborative model ensures clear ownership and accountability at every step.
 
 Communication is structured around a predictable cadence: weekly syncs between Project and Product Managers, twice-weekly standups for delivery teams, monthly stakeholder updates, and ad-hoc escalations as needed. We maintain transparency through consistent status reporting, risk registers, and project boards. Quality assurance is built into every phase, with automated testing in CI pipelines, security scanning, and end-to-end smoke tests before release. Continuous improvement is driven by regular retrospectives, where teams reflect on what went well and identify actionable improvements to enhance delivery efficiency and team collaboration.
 
@@ -23,7 +23,7 @@ This folder contains comprehensive guides for each phase of the OctoAcme project
 - [**Risk Management & Communication**](./octoacme-risks-and-communication.md) — Identifying and managing risks, stakeholder communication, and escalation paths
 - [**Release & Deployment Guide**](./octoacme-release-and-deployment.md) — Release types, pre-release requirements, deployment checklists, and rollback procedures
 - [**Retrospective & Continuous Improvement**](./octoacme-retrospective-and-continuous-improvement.md) — Capturing learnings and converting them into actionable improvements
-- [**Roles and Personas**](./octoacme-roles-and-personas.md) — Detailed definitions of Developers, Product Managers, and Project Managers
+- [**Roles and Personas**](./octoacme-roles-and-personas.md) — Detailed definitions of all project roles including Developers, Product Managers, Project Managers, QA Engineers, UX/UI Designers, DevOps/SysAdmin, SMEs, and Customer Support
 
 ## Getting Started
 

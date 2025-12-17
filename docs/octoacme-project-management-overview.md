@@ -17,7 +17,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Engineer / Quality Specialist: validate quality, develop test strategies, ensure acceptance criteria are met.
+- UX/UI Designer: design user interfaces, conduct user research, ensure accessibility and usability.
+- System Administrator / DevOps: manage CI/CD pipelines, infrastructure, deployments, and system reliability.
+- Subject Matter Expert (SME): provide domain expertise, validate requirements, support adoption.
+- Customer Support / Success: represent end-user feedback, escalate issues, coordinate on incidents.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts

@@ -25,17 +25,35 @@ Maintain a simple table with:
 - Use a single source of truth (project README or release doc) for status
 
 ## Communication Templates
-Weekly Status Template:
+
+### Weekly Status Template
 - Progress this week:
 - Next steps:
 - Risks & blockers:
 - Ask / decisions needed:
 
-Incident Communication
+### Incident Communication
 - Triage summary
 - Actions being taken
 - Expected timeline
 - Post-incident blameless retrospective scheduled
+
+### Stakeholder Feedback Request
+Use this template when gathering input from stakeholders (SMEs, UX, Customer Support):
+- Context and background:
+- Specific question or decision needed:
+- Options being considered:
+- Timeline for feedback:
+- Impact if no feedback received:
+- Contact for follow-up:
+
+### Design Review Request (UX/UI)
+- Feature or component being designed:
+- User flows and wireframes/mockups:
+- Acceptance criteria and requirements:
+- Accessibility considerations:
+- Feedback needed by:
+- Participants and reviewers:
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
