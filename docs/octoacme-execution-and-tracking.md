@@ -15,6 +15,12 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
+- QA Handoff workflow:
+  - Developer completes PR review and merges to main/staging branch
+  - QA Engineer reviews acceptance criteria and test plan
+  - QA executes manual and automated tests in staging environment
+  - QA documents results and signs off or flags defects
+  - Defects are prioritized and addressed before release
 
 ## Quality & Testing
 - Unit tests for new logic
@@ -38,3 +44,13 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## QA Sign-off Checklist
+Before promoting features to production, ensure:
+- [ ] All acceptance criteria verified and documented
+- [ ] Test cases executed (manual and automated)
+- [ ] No critical or high-priority defects remain unresolved
+- [ ] Regression testing completed for affected areas
+- [ ] Accessibility and performance requirements validated
+- [ ] Cross-browser/cross-platform testing completed (if applicable)
+- [ ] QA Engineer provides formal sign-off or documents blockers
